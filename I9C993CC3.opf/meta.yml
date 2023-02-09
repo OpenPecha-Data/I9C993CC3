@@ -1,0 +1,16 @@
+id: I9C993CC3
+default_language: en
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-09 14:37:40.825375
+last_modified: 2023-02-09 14:37:40.825472
+source_metadata:
+  title: Vimalakīrtinirdeśa
+  language: en
+bases:
+  356F:
+    base_file: 356F.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
